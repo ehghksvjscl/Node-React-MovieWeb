@@ -5,10 +5,11 @@
 
 ## 적용기술
 - JavaScript
+- Node.js(Backend)
 - Movie AIP
-- React
+- React(frontend)
 - MongoDB
-
+- antd CSS Freamwork
 
 ## 목적
 - React Node 기술 상향 목적
