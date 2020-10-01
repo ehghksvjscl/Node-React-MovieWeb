@@ -30,3 +30,9 @@
 [프론트엔드]
 - 10기 김도환
 
+// 개발 mongoDB를 바라봅니다.
+module.exports = {
+    mongoURI: 'mongodb+srv://root:admin@boilerplate.czpzw.mongodb.net/test?retryWrites=true&w=majority'
+    // mongoURI: "mongodb://localhost:27017/test"
+    
+}
